@@ -1,4 +1,4 @@
 # projeto-FlexBlog
  Projeto feito para estudo do flexbox na plataforma origamid
 
- https://douglassvalves.github.io/projeto-FlexBlog/
+ Para visualizar o site, basta acessar: https://douglassvalves.github.io/projeto-FlexBlog/
